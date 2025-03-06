@@ -7,8 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/gavnijj/osTicket-post_installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gavnijj/osticket-ticket_lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs Part 1](https://github.com/gavnijj/configure-ad)
-  - [Configuring On-premises Active Directory within Azure VMs Part 2](https://github.com/gavnijj/deploying-ad)
+  - [Preparing Active Directory(AD) Infrastructure in Azure ](https://github.com/gavnijj/configure-ad)
+  - [Deploying Active Directory](https://github.com/gavnijj/deploying-ad)
+  - [Group Policy and Managing Accounts](https://github.com/gavnijj/group_policy-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gavnijj/azure-network-protocols)
 
 
