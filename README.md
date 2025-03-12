@@ -10,6 +10,7 @@
   - [Preparing Active Directory(AD) Infrastructure in Azure ](https://github.com/gavnijj/configure-ad)
   - [Deploying Active Directory](https://github.com/gavnijj/deploying-ad)
   - [Group Policy and Managing Accounts](https://github.com/gavnijj/group_policy-ad)
+  - [Building an Intuition for DNS](https://github.com/gavnijj/dns-ad)
 - <b>Network Protocols</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gavnijj/azure-network-protocols)
 
